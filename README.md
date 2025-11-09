@@ -29,8 +29,6 @@ I am constantly improving my skills in **Data Science, Machine Learning, Deep Le
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" title="Pandas"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikit-learn-colored.svg" width="36" height="36" alt="Scikit-learn" title="Scikit-learn"/></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
 </p>
 
@@ -40,29 +38,29 @@ I am constantly improving my skills in **Data Science, Machine Learning, Deep Le
 
 ## 🚀 Projects
 
-### 1. E-commerce API
+### 1. E-commerce FastAPI
 - **Description**: Backend API for managing products, categories, and users with authentication, slug search, and async PostgreSQL operations.  
 - **Tech Stack**: Python, FastAPI, PostgreSQL, SQLAlchemy (async), Docker, JWT, OAuth2  
 - **Role & Contributions**: Designed REST API endpoints, implemented JWT/OAuth2 authentication, optimized async DB queries.  
-- **GitHub**: [Link](https://github.com/PaulNikolaev)
+- **GitHub**: [Link](https://github.com/PaulNikolaev/ecommerce_fastapi)
 
 ### 2. Django Web Applications
 - **Description**: Two web applications with authentication, CRUD, REST API, migrations, caching, Docker + Gunicorn + Nginx deployment.  
 - **Tech Stack**: Django, Django REST Framework, PostgreSQL, Docker  
 - **Role & Contributions**: Implemented backend functionality, optimized queries, configured deployment pipelines.  
-- **GitHub**: [Link](https://github.com/PaulNikolaev)
+- **GitHub**: [Link]([https://github.com/PaulNikolaev](https://github.com/PaulNikolaev/mysite_recipe)
 
 ### 3. NeuroFireInspector Telegram Bot
 - **Description**: Telegram bot for fire safety information with LLM (GigaChat), RAG (LangChain + FAISS + PyTorch), GPU acceleration, async Aiogram.  
 - **Tech Stack**: Python, Aiogram, LangChain, FAISS, PyTorch, CUDA, Yandex Cloud Functions  
 - **Role & Contributions**: Developed intelligent Q&A system, integrated RAG search with user data, implemented async command handling.  
-- **GitHub**: [Link](https://github.com/PaulNikolaev)
+- **GitHub**: [Link]([https://github.com/PaulNikolaev](https://github.com/PaulNikolaev/neuro_fire_inspector)
 
 ### 4. Spam Email Classifier
 - **Description**: ML-based system to classify spam emails.  
 - **Tech Stack**: Python, Pandas, Numpy, Scikit-learn, TfidfVectorizer  
 - **Role & Contributions**: Built ML pipeline with Logistic Regression & Naive Bayes, feature engineering, model evaluation.  
-- **GitHub**: [Link](https://github.com/PaulNikolaev)
+- **GitHub**: [Link]([https://github.com/PaulNikolaev](https://github.com/PaulNikolaev/spam_email_detection_system)
 
 ### 5. Interactive LLM App
 - **Description**: Gradio app for user data input with RAG-based retrieval and AI-generated answers.  
