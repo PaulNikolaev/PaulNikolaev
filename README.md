@@ -48,25 +48,19 @@ I am constantly improving my skills in **Data Science, Machine Learning, Deep Le
 - **Description**: Two web applications with authentication, CRUD, REST API, migrations, caching, Docker + Gunicorn + Nginx deployment.  
 - **Tech Stack**: Django, Django REST Framework, PostgreSQL, Docker  
 - **Role & Contributions**: Implemented backend functionality, optimized queries, configured deployment pipelines.  
-- **GitHub**: [Link]([https://github.com/PaulNikolaev](https://github.com/PaulNikolaev/mysite_recipe)
+- **GitHub**: [Link](https://github.com/PaulNikolaev/mysite_recipe)
 
 ### 3. NeuroFireInspector Telegram Bot
 - **Description**: Telegram bot for fire safety information with LLM (GigaChat), RAG (LangChain + FAISS + PyTorch), GPU acceleration, async Aiogram.  
 - **Tech Stack**: Python, Aiogram, LangChain, FAISS, PyTorch, CUDA, Yandex Cloud Functions  
 - **Role & Contributions**: Developed intelligent Q&A system, integrated RAG search with user data, implemented async command handling.  
-- **GitHub**: [Link]([https://github.com/PaulNikolaev](https://github.com/PaulNikolaev/neuro_fire_inspector)
+- **GitHub**: [Link](https://github.com/PaulNikolaev/neuro_fire_inspector)
 
 ### 4. Spam Email Classifier
 - **Description**: ML-based system to classify spam emails.  
 - **Tech Stack**: Python, Pandas, Numpy, Scikit-learn, TfidfVectorizer  
 - **Role & Contributions**: Built ML pipeline with Logistic Regression & Naive Bayes, feature engineering, model evaluation.  
-- **GitHub**: [Link]([https://github.com/PaulNikolaev](https://github.com/PaulNikolaev/spam_email_detection_system)
-
-### 5. Interactive LLM App
-- **Description**: Gradio app for user data input with RAG-based retrieval and AI-generated answers.  
-- **Tech Stack**: Python, Gradio, LangChain, OpenAI API  
-- **Role & Contributions**: Built UI for document upload, implemented vector index and context-aware response generation.  
-- **GitHub**: [Link](https://github.com/PaulNikolaev)
+- **GitHub**: [Link](https://github.com/PaulNikolaev/spam_email_detection_system)
 
 ---
 
