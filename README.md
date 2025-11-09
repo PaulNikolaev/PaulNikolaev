@@ -1,26 +1,26 @@
-# 👋 Hi, I’m Pavel Nikolaev
+# 👋 Привет, я Павел Николаев
 
-I’m a **Python Backend Developer** with practical experience in web development, AI integration, and data processing.  
-I specialize in **backend systems, REST API development, machine learning, and AI-assisted solutions**.  
+Я — **Python Backend разработчик** с практическим опытом веб-разработки, интеграции AI и обработки данных.  
+Специализируюсь на **backend-системах, разработке REST API, машинном обучении и AI-решениях**.  
 
-🌍 Based in Sarov, Russia  
+🌍 Город: Саров, Россия  
 📧 Email: [panikolaev7@gmail.com](mailto:panikolaev7@gmail.com)  
 💬 Telegram: [@panikolaev7](https://t.me/panikolaev7)  
 🐙 GitHub: [https://github.com/PaulNikolaev](https://github.com/PaulNikolaev)
 
 ---
 
-## 💻 About Me
+## 💻 О себе
 
-I am a former officer of the Federal Penitentiary Service of Russia with **20 years of management and organizational experience**, now fully focused on IT. Over the last 2 years, I have transitioned into Python development and built a solid portfolio of backend projects.  
+Ранее я служил в Федеральной службе исполнения наказаний России, где получил **20 лет управленческого и организационного опыта**, после чего полностью сосредоточился на IT. За последние 2 года я перешёл в Python-разработку и создал солидное портфолио backend-проектов.  
 
-I create **web applications, REST APIs, and AI-assisted systems**, using Django, FastAPI, SQLAlchemy, PostgreSQL, Docker, and modern ML/AI tools. I also ensure the **security, reliability, and scalability** of the systems I develop.  
+Я разрабатываю **веб-приложения, REST API и системы с интеграцией AI**, используя Django, FastAPI, SQLAlchemy, PostgreSQL, Docker и современные инструменты ML/AI. Также обеспечиваю **безопасность, надёжность и масштабируемость** создаваемых систем.  
 
-I am constantly improving my skills in **Data Science, Machine Learning, Deep Learning, and Large Language Models**, integrating them into web solutions and automated workflows. I enjoy solving challenging tasks and developing projects that combine backend development and AI.
+Постоянно развиваю навыки в **Data Science, машинном обучении, Deep Learning и больших языковых моделях (LLM)**, интегрируя их в веб-приложения и автоматизацию процессов. Люблю решать сложные задачи, объединяя backend-разработку и AI.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Навыки
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
@@ -32,52 +32,52 @@ I am constantly improving my skills in **Data Science, Machine Learning, Deep Le
 <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
 </p>
 
-**Other Skills:** SQLAlchemy (sync & async), JWT & OAuth2 authentication, Aiogram, LangChain, OpenAI API, RAG systems, FAISS, PyTorch, CUDA, CI/CD pipelines, Gradio
+**Дополнительно:** SQLAlchemy (sync & async), JWT & OAuth2 аутентификация, Aiogram, LangChain, OpenAI API, RAG системы, FAISS, PyTorch, CUDA, CI/CD пайплайны, Gradio
 
 ---
 
-## 🚀 Projects
+## 🚀 Проекты
 
 ### 1. E-commerce FastAPI
-- **Description**: Backend API for managing products, categories, and users with authentication, slug search, and async PostgreSQL operations.  
-- **Tech Stack**: Python, FastAPI, PostgreSQL, SQLAlchemy (async), Docker, JWT, OAuth2  
-- **Role & Contributions**: Designed REST API endpoints, implemented JWT/OAuth2 authentication, optimized async DB queries.  
-- **GitHub**: [Link](https://github.com/PaulNikolaev/ecommerce_fastapi)
+- **Описание**: Backend API для управления товарами, категориями и пользователями с аутентификацией, поиском по slug и асинхронными запросами к PostgreSQL.  
+- **Стек**: Python, FastAPI, PostgreSQL, SQLAlchemy (async), Docker, JWT, OAuth2  
+- **Роль и вклад**: Разработка REST API, реализация JWT/OAuth2, оптимизация асинхронных запросов к базе данных  
+- **GitHub**: [Ссылка](https://github.com/PaulNikolaev/ecommerce_fastapi)
 
 ### 2. Django Web Applications
-- **Description**: Two web applications with authentication, CRUD, REST API, migrations, caching, Docker + Gunicorn + Nginx deployment.  
-- **Tech Stack**: Django, Django REST Framework, PostgreSQL, Docker  
-- **Role & Contributions**: Implemented backend functionality, optimized queries, configured deployment pipelines.  
-- **GitHub**: [Link](https://github.com/PaulNikolaev/mysite_recipe)
+- **Описание**: Два веб-приложения с авторизацией, CRUD, REST API, миграциями, кэшированием, деплой через Docker + Gunicorn + Nginx.  
+- **Стек**: Django, Django REST Framework, PostgreSQL, Docker  
+- **Роль и вклад**: Разработка backend-функционала, оптимизация запросов, настройка деплоя  
+- **GitHub**: [Ссылка](https://github.com/PaulNikolaev/mysite_recipe)
 
-### 3. NeuroFireInspector Telegram Bot
-- **Description**: Telegram bot for fire safety information with LLM (GigaChat), RAG (LangChain + FAISS + PyTorch), GPU acceleration, async Aiogram.  
-- **Tech Stack**: Python, Aiogram, LangChain, FAISS, PyTorch, CUDA, Yandex Cloud Functions  
-- **Role & Contributions**: Developed intelligent Q&A system, integrated RAG search with user data, implemented async command handling.  
-- **GitHub**: [Link](https://github.com/PaulNikolaev/neuro_fire_inspector)
+### 3. Telegram-бот NeuroFireInspector
+- **Описание**: Бот для справки по пожарной безопасности с LLM (GigaChat), RAG (LangChain + FAISS + PyTorch), GPU-ускорением и асинхронной работой через Aiogram.  
+- **Стек**: Python, Aiogram, LangChain, FAISS, PyTorch, CUDA, Yandex Cloud Functions  
+- **Роль и вклад**: Разработка интеллектуальной Q&A системы, интеграция RAG поиска, асинхронная обработка команд  
+- **GitHub**: [Ссылка](https://github.com/PaulNikolaev/neuro_fire_inspector)
 
-### 4. Spam Email Classifier
-- **Description**: ML-based system to classify spam emails.  
-- **Tech Stack**: Python, Pandas, Numpy, Scikit-learn, TfidfVectorizer  
-- **Role & Contributions**: Built ML pipeline with Logistic Regression & Naive Bayes, feature engineering, model evaluation.  
-- **GitHub**: [Link](https://github.com/PaulNikolaev/spam_email_detection_system)
-
----
-
-## 🎓 Education
-
-- **Python Developer**, GeekBrains & “Osnovanie” Center — professional retraining  
-- **Higher Education**: Law, Vologda Institute of Law and Economics, FSIN Russia  
+### 4. Система классификации спама
+- **Описание**: ML-система для классификации спам-писем.  
+- **Стек**: Python, Pandas, Numpy, Scikit-learn, TfidfVectorizer  
+- **Роль и вклад**: Создание ML-пайплайна с Logistic Regression & Naive Bayes, feature engineering, оценка модели  
+- **GitHub**: [Ссылка](https://github.com/PaulNikolaev/spam_email_detection_system)
 
 ---
 
-## 📂 Additional Info
+## 🎓 Образование
 
-- 20 years of experience in management and administration in FSIN  
-- Experienced in corporate systems administration, EDMS, 1C:Enterprise  
-- Focused on backend development, AI/ML integration, and automation
+- **Python Developer**, GeekBrains & Центр “Основание” — профессиональная переподготовка  
+- **Высшее образование**: Юриспруденция, Вологодский институт права и экономики, ФСИН России  
 
 ---
 
-## 📌 Portfolio / GitHub
-- [GitHub Portfolio](https://github.com/PaulNikolaev) — All projects include **README, setup instructions, and demo examples**
+## 📂 Дополнительно
+
+- 20 лет опыта управления и администрирования в ФСИН  
+- Опыт развертывания корпоративных систем: ЭДО, 1С:Предприятие  
+- Фокус на backend-разработку, интеграцию AI/ML и автоматизацию процессов
+
+---
+
+## 📌 Портфолио / GitHub
+- [GitHub Portfolio](https://github.com/PaulNikolaev) — Все проекты содержат **README, инструкции по запуску и примеры работы**
