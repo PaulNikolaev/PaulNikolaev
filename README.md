@@ -32,7 +32,7 @@
 <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
 </p>
 
-**Дополнительно:** SQLAlchemy (sync & async), JWT & OAuth2 аутентификация, Aiogram, LangChain, OpenAI API, RAG системы, FAISS, PyTorch, CUDA, CI/CD пайплайны, Gradio
+**Дополнительно:** SQLAlchemy (sync & async), JWT & OAuth2 аутентификация, Aiogram, LangChain, OpenAI API, RAG системы, FAISS, Keras, TensorFlow, PyTorch, CUDA, CI/CD пайплайны
 
 ---
 
@@ -72,6 +72,7 @@
 
 ## 🎓 Образование
 
+- **Разработчик нейросетей**, Академия нейросетей "The Founder" - профессиональная переподготовка
 - **Python Developer**, GeekBrains & Центр “Основание” — профессиональная переподготовка  
 - **Высшее образование**: Юриспруденция, Вологодский институт права и экономики, ФСИН России  
 
