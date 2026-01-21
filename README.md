@@ -14,9 +14,9 @@
 
 Ранее я служил в Федеральной службе исполнения наказаний России, где получил **20 лет управленческого и организационного опыта**, после чего полностью сосредоточился на IT. За последние 2 года я перешёл в Python-разработку и создал несколько backend-проектов.  
 
-Я разрабатываю **веб-приложения, REST API и системы с интеграцией AI**, используя Django, FastAPI, SQLAlchemy, PostgreSQL, Docker и современные инструменты ML/AI. Также обеспечиваю **безопасность, надёжность и масштабируемость** создаваемых систем.  
+Я разрабатываю **веб-приложения, REST API и системы с интеграцией AI**, используя Django, FastAPI, SQLAlchemy, PostgreSQL, Docker и современные инструменты ML/AI. Также занимаюсь **кроссплатформенной разработкой мобильных и десктопных приложений** на Flutter с интеграцией AI-сервисов. Обеспечиваю **безопасность, надёжность и масштабируемость** создаваемых систем.  
 
-Постоянно развиваю навыки в **Data Science, машинном обучении, Deep Learning и больших языковых моделях (LLM)**, интегрируя их в веб-приложения и автоматизацию процессов. Люблю решать сложные задачи, объединяя backend-разработку и AI.
+Постоянно развиваю навыки в **Data Science, машинном обучении, Deep Learning и больших языковых моделях (LLM)**, интегрируя их в веб-приложения, мобильные решения и автоматизацию процессов. Люблю решать сложные задачи, объединяя backend-разработку, frontend и AI.
 
 ---
 
@@ -29,12 +29,16 @@
 <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" title="Flutter"/></a>
 <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" title="Dart"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqlite-colored.svg" width="36" height="36" alt="SQLite" title="SQLite"/></a>
+<a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" title="Redis"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
 </p>
 
-**Дополнительно:** SQLAlchemy (sync & async), JWT & OAuth2 аутентификация, Aiogram, LangChain, OpenAI API, RAG системы, FAISS, Keras, TensorFlow, PyTorch, CUDA, Flutter/Dart (кроссплатформенная разработка), SQLite, CI/CD пайплайны
+**Дополнительно:** SQLAlchemy (sync & async), JWT & OAuth2 аутентификация, Aiogram, LangChain, OpenAI API, RAG системы, FAISS, Keras, CUDA, CI/CD пайплайны, GitHub Actions
 ---
 
 ## 🚀 Проекты
