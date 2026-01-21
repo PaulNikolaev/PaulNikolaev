@@ -38,7 +38,8 @@
 <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
 </p>
 
-**Дополнительно:** SQLAlchemy (sync & async), JWT & OAuth2 аутентификация, Aiogram, LangChain, OpenAI API, RAG системы, FAISS, Keras, CUDA, CI/CD пайплайны, GitHub Actions
+**Дополнительно:** SQLAlchemy (sync & async), JWT & OAuth2 аутентификация, Aiogram, LangChain, OpenAI API, RAG системы, FAISS, Keras, TensorFlow, PyTorch, CUDA, Flutter/Dart (кроссплатформенная разработка), SQLite, CI/CD пайплайны, GitHub Actions
+
 ---
 
 ## 🚀 Проекты
