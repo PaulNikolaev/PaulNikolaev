@@ -56,11 +56,11 @@
 - **Роль и вклад**: Разработка интеллектуальной Q&A системы, интеграция RAG поиска, асинхронная обработка команд  
 - **GitHub**: [Ссылка](https://github.com/PaulNikolaev/neuro_fire_inspector)
 
-### 4. Система классификации спама
-- **Описание**: ML-система для классификации спам-писем.  
-- **Стек**: Python, Pandas, Numpy, Scikit-learn, TfidfVectorizer  
-- **Роль и вклад**: Создание ML-пайплайна с Logistic Regression & Naive Bayes, feature engineering, оценка модели  
-- **GitHub**: [Ссылка](https://github.com/PaulNikolaev/spam_email_detection_system)
+### 4. AI Chat Flutter
+- **Описание**: Кроссплатформенное приложение для общения с 339+ моделями AI через OpenRouter и VSEGPT API. Статистика использования, аналитика расходов, безопасная аутентификация с шифрованием данных.  
+- **Стек**: Flutter, Dart, OpenRouter API, VSEGPT API, SQLite, sqflite, flutter_dotenv, fl_chart, crypto, JWT аутентификация  
+- **Роль и вклад**: Разработка кроссплатформенного UI, интеграция AI API, реализация аналитики и статистики, безопасное хранение данных с шифрованием  
+- **GitHub**: [Ссылка](https://github.com/PaulNikolaev/ai_chat_flutter)
 
 ### 5. Интерактивное LLM-приложение
 - **Описание**: Приложение на Gradio для загрузки пользовательских данных с поиском по RAG и генерацией ответов с помощью AI.  
