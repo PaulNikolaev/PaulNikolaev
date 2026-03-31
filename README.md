@@ -1,6 +1,6 @@
 # 👋 Привет, я Павел Николаев
 
-Я — **Python backend-разработчик** с опытом веб-разработки, интеграции AI и обработки данных. Делаю устойчивые **REST API** и сервисы, внедряю **ML/AI** в продукты, обеспечивая надёжность и масштабируемость.  
+Я — **Python backend-разработчик** с опытом проектирования REST API, интеграции AI-решений (LLM, RAG) и автоматизации процессов. Создаю надежные веб-сервисы, умею работать с асинхронным кодом и контейнеризацией.
 
 🌍 Город: Саров, Россия  
 📧 Email: [panikolaev7@gmail.com](mailto:panikolaev7@gmail.com)  
@@ -11,11 +11,11 @@
 
 ## 💻 О себе
 
-Ранее я служил в Федеральной службе исполнения наказаний России, где получил **20 лет управленческого и организационного опыта**, после чего полностью сосредоточился на IT. За последние 2 года я перешёл в Python-разработку и создал несколько backend-проектов.  
+Ранее я более 15 лет работал на руководящих должностях в крупных государственных структурах. Этот бэкграунд сформировал у меня железную дисциплину, умение брать на себя ответственность за технические решения, работать строго по ТЗ и соблюдать дедлайны.
 
-Я разрабатываю **веб-приложения, REST API и системы с интеграцией AI**, используя Django, FastAPI, SQLAlchemy, PostgreSQL, Docker и современные инструменты ML/AI. Также занимаюсь **кроссплатформенной разработкой мобильных и десктопных приложений** на Flutter с интеграцией AI-сервисов. Обеспечиваю **безопасность, надёжность и масштабируемость** создаваемых систем.  
+Последние 2 года я полностью сфокусирован на IT и коммерческой разработке. Я специализируюсь на создании **веб-приложений, REST API и сервисов с интеграцией AI**, используя Django, FastAPI, SQLAlchemy, PostgreSQL и Docker. Также имею опыт кроссплатформенной разработки мобильных приложений на Flutter для интеграции с AI-сервисами.
 
-Постоянно развиваю навыки в **Data Science, машинном обучении, Deep Learning и больших языковых моделях (LLM)**, интегрируя их в веб-приложения, мобильные решения и автоматизацию процессов. Люблю решать сложные задачи, объединяя backend-разработку, frontend и AI.
+Постоянно развиваюсь в архитектуре баз данных, асинхронном программировании и создании масштабируемых микросервисов. Люблю решать сложные инженерные задачи на стыке классического backend и современных AI-технологий.
 
 ---
 
@@ -30,59 +30,57 @@
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a>
 <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="SQLite" title="SQLite"/></a>
 <a href="https://redis.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" title="Redis"/></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" title="PyTorch"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
 </p>
 
-**Дополнительно:** SQLAlchemy (sync & async), JWT & OAuth2 аутентификация, Aiogram, LangChain, OpenAI API, RAG системы, FAISS, Keras, CUDA, CI/CD пайплайны, GitHub Actions
+**Дополнительно:** SQLAlchemy (sync & async), JWT & OAuth2 аутентификация, Aiogram, LangChain, OpenAI API / GigaChat API, RAG системы, FAISS, Nginx, Gunicorn, GitHub Actions.
 
 ---
 
 ## 🚀 Проекты
 
-### 1. E-commerce FastAPI
-- **Описание**: Backend API для управления товарами, категориями и пользователями с аутентификацией, поиском по slug и асинхронными запросами к PostgreSQL.  
+### 1. E-commerce API (FastAPI)
+- **Описание**: Backend-сервис для управления каталогом товаров, категориями и пользователями с JWT-аутентификацией и асинхронными запросами к БД.
 - **Стек**: Python, FastAPI, PostgreSQL, SQLAlchemy (async), Docker, JWT, OAuth2  
-- **Роль и вклад**: Разработка REST API, реализация JWT/OAuth2, оптимизация асинхронных запросов к базе данных  
+- **Роль и вклад**: Разработка REST API (CRUD, фильтрация, пагинация), реализация асинхронной работы с базой данных, контейнеризация проекта.  
 - **GitHub**: [Ссылка](https://github.com/PaulNikolaev/ecommerce_fastapi)
 
 ### 2. Django Web Applications
-- **Описание**: Два веб-приложения с авторизацией, CRUD, REST API, миграциями, кэшированием, деплой через Docker + Gunicorn + Nginx.  
-- **Стек**: Django, Django REST Framework, PostgreSQL, Docker  
-- **Роль и вклад**: Разработка backend-функционала, оптимизация запросов, настройка деплоя  
+- **Описание**: Два полноценных веб-приложения с авторизацией, CRUD-операциями, REST API, кэшированием и деплоем через связку Docker + Gunicorn + Nginx.  
+- **Стек**: Django, Django REST Framework, PostgreSQL, Redis, Docker  
+- **Роль и вклад**: Разработка backend-функционала, оптимизация SQL-запросов, настройка production-окружения.  
 - **GitHub**: [Ссылка](https://github.com/PaulNikolaev/mysite_recipe)
 
-### 3. Telegram-бот NeuroFireInspector
-- **Описание**: Бот для справки по пожарной безопасности с LLM (GigaChat), RAG (LangChain + FAISS + PyTorch), GPU-ускорением и асинхронной работой через Aiogram.  
+### 3. Telegram-бот NeuroFireInspector (RAG)
+- **Описание**: Интеллектуальный бот-ассистент по пожарной безопасности с использованием LLM, RAG-системы для точного поиска по документам и асинхронной обработки через Aiogram.  
 - **Стек**: Python, Aiogram, LangChain, FAISS, PyTorch, CUDA, Yandex Cloud Functions  
-- **Роль и вклад**: Разработка интеллектуальной Q&A системы, интеграция RAG поиска, асинхронная обработка команд  
+- **Роль и вклад**: Разработка RAG-системы для семантического поиска, интеграция языковых моделей, асинхронная обработка команд.  
 - **GitHub**: [Ссылка](https://github.com/PaulNikolaev/neuro_fire_inspector)
 
 ### 4. AI Chat Flutter
-- **Описание**: Кроссплатформенное приложение для общения с 339+ моделями AI через OpenRouter и VSEGPT API. Статистика использования, аналитика расходов, безопасная аутентификация с шифрованием данных.  
-- **Стек**: Flutter, Dart, OpenRouter API, VSEGPT API, SQLite, sqflite, flutter_dotenv, fl_chart, crypto, JWT аутентификация  
-- **Роль и вклад**: Разработка кроссплатформенного UI, интеграция AI API, реализация аналитики и статистики, безопасное хранение данных с шифрованием  
+- **Описание**: Кроссплатформенное мобильное приложение для общения с ИИ-моделями через сторонние API. Аналитика расходов и безопасная аутентификация.  
+- **Стек**: Flutter, Dart, OpenRouter API, VSEGPT API, SQLite, JWT  
+- **Роль и вклад**: Разработка мобильного UI, интеграция с внешними API, безопасное локальное хранение данных.  
 - **GitHub**: [Ссылка](https://github.com/PaulNikolaev/ai_chat_flutter)
 
 ### 5. Интерактивное LLM-приложение
-- **Описание**: Приложение на Gradio для загрузки пользовательских данных с поиском по RAG и генерацией ответов с помощью AI.  
+- **Описание**: Веб-интерфейс на Gradio для загрузки пользовательских документов, поиска по контексту и генерации ответов на базе ИИ.  
 - **Стек**: Python, Gradio, LangChain, OpenAI API  
-- **Роль и вклад**: Создание интерфейса для загрузки документов, реализация векторного индекса и генерации ответов с учётом контекста.  
+- **Роль и вклад**: Создание интерфейса для загрузки файлов, реализация векторного индекса и генерации ответов с учётом контекста.  
 - **GitHub**: [Ссылка](https://github.com/PaulNikolaev/neuro_employee_app)
 
 ---
 
 ## 🎓 Образование
 
-- **Разработчик нейросетей**, Академия нейросетей "The Founder" - профессиональная переподготовка
-- **Python Developer**, GeekBrains & Центр “Основание” — профессиональная переподготовка  
-- **Высшее образование**: Юриспруденция, Вологодский институт права и экономики, ФСИН России  
-
+- **Разработчик нейросетей**, Академия нейросетей "The Founder" — профессиональная переподготовка
+- **Python-разработчик**, GeekBrains & Центр “Основание” — профессиональная переподготовка  
+- **Высшее юридическое образование**, Вологодский институт права и экономики  
 
 ---
 
 ## 📌 Портфолио / GitHub
-- [GitHub Portfolio](https://github.com/PaulNikolaev) — Все проекты содержат **README, инструкции по запуску и примеры работы**
+- [GitHub Portfolio](https://github.com/PaulNikolaev) — Все проекты содержат подробные файлы **README, инструкции по локальному запуску и примеры работы**.
